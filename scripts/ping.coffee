@@ -21,6 +21,7 @@ module.exports = (robot) ->
     msg.send "Server time is: #{new Date()}"
 
   robot.respond /DIE$/i, (msg) ->
-    msg.send "Goodbye, cruel world."
+    msg.send "I'll be back."
+    msg.send "https://dl.dropboxusercontent.com/u/3524956/bot01/T800-03.jpg"
     process.exit 0
 
