@@ -11,3 +11,6 @@ module.exports = (robot) ->
 
   robot.respond /ibb$/i, (msg) ->
     msg.send "I'll be back."
+
+  robot.respond /bgm$/i, (msg) ->
+    msg.send "デデン デン デデン"
