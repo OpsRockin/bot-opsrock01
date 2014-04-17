@@ -2,4 +2,3 @@ node_modules
 .DS_Store*
 *.sw[a-z]
 env.sh
-bin/
