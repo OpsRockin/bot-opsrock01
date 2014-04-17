@@ -27,7 +27,7 @@
   "dependencies": {
     "hubot":         ">= 2.6.0 < 3.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-typetalk": "0.0.2"
+    "hubot-typetalk": "https://github.com/dragon3/hubot-typetalk.git#nubot"
   },
 
   "engines": {
