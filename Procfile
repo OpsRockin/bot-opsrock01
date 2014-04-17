@@ -1,1 +1,1 @@
-web: hubot -a typetalk -n bot1
+web: bin/hubot -a typetalk -n bot1
